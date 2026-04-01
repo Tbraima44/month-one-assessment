@@ -1,0 +1,4 @@
+region                 = "us-east-1"
+my_ip                  = "203.0.113.50/32"      # ← CHANGE THIS
+key_name               = "my-laptop-key"         # ← CHANGE THIS or leave empty
+# ami_amazon_linux_2   = "ami-0c7217cdde317cfec" # optional override

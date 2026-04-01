@@ -1,0 +1,6 @@
+/.terraform
+/.terraform.lock.hcl
+/altschool.pem
+/terraform.tfstate
+/terraform.tfstate.backup
+/terraform.tfvars
